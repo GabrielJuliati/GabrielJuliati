@@ -10,7 +10,7 @@ Welcome to my corner of the internet! I'm a passionate programmer, curious about
 
 ## 🚀 My tech stack
 
-- **Languages**: JavaScript, TypeScript and Java (but always learning new ones!)
+- **Languages**: JavaScript, C, TypeScript and Java (but always learning new ones!)
 - **Tools**: Git, Figma, Linux and more.
 - **Databases**: PostgreSQL, MySQL and Oracle.
 
